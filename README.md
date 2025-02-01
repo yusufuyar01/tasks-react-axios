@@ -6,7 +6,7 @@ PROJE HAKKINDA:
 <br/>
 <br/>
 PROJENİN KURULUMU:  <br/>
-Bu projenin bağımlılıkları `npm` kullanarak kolayca yüklenebilmektedir.
+Bu projenin bağımlılıkları `npm` ve `npx` kullanarak kolayca yüklenebilmektedir.
 
  Projeyi çalıştırmak aşağıdaki adımları izleyiniz:
  1) Porjeyi zip olarak indirin ya da klonlayın:
