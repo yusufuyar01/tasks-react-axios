@@ -2,7 +2,7 @@
  React çalışmaları 3
 
 PROJE HAKKINDA:  
- Axios api kullanarak yaptığım bu react projesinde klavyeden girilen görevin başlığı ve görevin açıklamasını ekranda listeledim. Listelenen görevler silinebilmekte ve güncellenebilmektedir. useState kullanarak değişen değişkenlerin yeni değerlerini tanımladık. useEffect ve json server ile oluşturduğum db.json dosyasını kullanarak sayfa yenilendiğinde listelenen görevlerin kaybolmamasını engelledik. Güncelle ve silme butonlarına tıklandığında yapılan değişiklikler db.json dosyasında da değişmektedir. db.json dosyasının kullanımmında görevleri oluştururken post, ekrana listelemek için get, sil butonuna bastığında ilgili görevin silinmesi için delete, güncelle butonuna bastığında ilgili görevin güncellenmesi için put metotlarını kullandık. 
+ Axios api kullanarak yaptığım bu react projesinde amaç görev listesi oluşturmaktır. Klavyeden girilen görevin başlığı ve görevin açıklamasını ekranda görevlerim altında listelenmektedir. Listelenen görevler silinebilmekte ve güncellenebilmektedir. useState kullanarak değişen değişkenlerin yeni değerlerini tanımladık. useEffect ve json server ile oluşturduğum db.json dosyasını kullanarak sayfa yenilendiğinde listelenen görevlerin kaybolmamasını engelledik. Güncelle ve silme butonlarına tıklandığında yapılan değişiklikler db.json dosyasında da değişmektedir. db.json dosyasının kullanımmında görevleri oluştururken post, ekrana listelemek için get, sil butonuna bastığında ilgili görevin silinmesi için delete, güncelle butonuna bastığında ilgili görevin güncellenmesi için put metotlarını kullandık. 
 <br/>
 <br/>
 PROJENİN KURULUMU:  <br/>
