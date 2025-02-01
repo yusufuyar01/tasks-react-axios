@@ -14,10 +14,14 @@ Bu projenin bağımlılıkları `npm` kullanarak kolayca yüklenebilmektedir.
  
 2) Ardından proje klasörünü açın:
    cd tasks-react-axios ya da  cd tasks-react-axios-main
-3) Gerekli bağımlılıkları yükleyin:
- npm install  #Bağımlılıkları indirir.
-
-4) React projesini çalıştırın:
- npm start  #Projeyi başlatır.
+3) Gerekli bağımlılıkları yükleyin:<br/>
+ npm install  #Bağımlılıkları indirir. <br/> 
+ npm install axios  #Axios api bağlantı kurulumu yapar.<br/>
+ npm install json-server  #db.json dosyasını kullanabilmek için json-serverı kurduk.<br/>
+4) Yeni bir terminal açın ve 3001 portunda json-serverı çalıştırın:<br/>
+ npx json-server src/api/db.json --port 3001 #json-serverı çalıştırır
+5)  React projesini çalıştırın:<br/>
+ npm start  #Projeyi başlatır.<br/>
+ 
  
 <br/>
