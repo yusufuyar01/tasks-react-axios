@@ -1,4 +1,4 @@
-# tasks-react-1
+# tasks-react-axios
  React çalışmaları 3
 
 PROJE HAKKINDA:  
